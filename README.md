@@ -1,3 +1,3 @@
-# Python-small-projects
-This Repo contains many small python projects
+# Python-Projects
+This Repo contains many Python projects I did when I was learning
 You can use the idea for your practice.
