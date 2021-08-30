@@ -47,7 +47,7 @@ for exercise in my_result["exercises"]:
     }
 
 sheety_authorization = {
-    "Authorization": "Bearer dsaasdasda32389oadhshe0qw01eh0nj01j0"}
+    "Authorization": "Bearer ##Token Here##"}
 
 sheety_response = requests.post(url=sheety_endpoint,
                                 json=sheety_params,
